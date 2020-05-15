@@ -1,0 +1,2 @@
+# binder-skeleton
+Barebones installation
