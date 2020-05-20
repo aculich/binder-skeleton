@@ -1,18 +1,32 @@
 name: binder-skeleton
 channels:
   - conda-forge
+  - defaults
 dependencies:
+  - descartes
   - fiona
+  - folium
+  - geojson
   - geopandas
+  - geopy
+  - jupyterlab
+  - libpysal
   - mapclassify
   - matplotlib
   - numpy
   - pandas
   - pathlib
+  - pip
   - pysal
+  - python-dateutil<=2.8.0
+  - quilt3 >=3.1.11
+  - rasterio
+  - rasterstats
   - requests
   - scipy
   - seaborn
   - shapely
+  - statsmodels
   - tobler
+  - tqdm
   - xlrd
