@@ -12,7 +12,7 @@ dependencies:
   - jupyterlab
   - libpysal
   - mapclassify
-  - matplotlib
+  - matplotlib==3.2
   - numpy
   - pandas
   - pathlib
